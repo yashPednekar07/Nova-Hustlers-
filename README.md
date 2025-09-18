@@ -1,4 +1,4 @@
-# Nova-Hustlers-
+# Nova-Hustlers-Learn. Network. Grow
 
 # Nova Hustlers — Student Community Platform
 
@@ -6,7 +6,10 @@ Nova Hustlers is a **global student community** built to empower students to **n
 What began as a small course platform in Goa has scaled into a thriving network of **500+ students across India**, generating revenue through curated events, mentorship, and skill-building programs.  
 
 ---
+## Check out our courses 
+https://novahustlers.odoo.com/
 
+---
 ## Vision
 To unlock the full potential of students by providing the **right tools, connections, and opportunities** — helping them thrive academically, professionally, and personally.  
 
